@@ -5,5 +5,5 @@ public class Main {
         double heightM = 1.87;
         int bmi = service.calculate(massKg, heightM);
         System.out.println(bmi);
-        }
     }
+}
